@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/peopleten/static/css/main.5f361e03.chunk.css",
+    "main.js": "/peopleten/static/js/main.d7916f1b.chunk.js",
+    "main.js.map": "/peopleten/static/js/main.d7916f1b.chunk.js.map",
+    "runtime-main.js": "/peopleten/static/js/runtime-main.4671299e.js",
+    "runtime-main.js.map": "/peopleten/static/js/runtime-main.4671299e.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/peopleten/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.8c3fae2e.chunk.js": "/peopleten/static/js/2.8c3fae2e.chunk.js",
+    "static/js/2.8c3fae2e.chunk.js.map": "/peopleten/static/js/2.8c3fae2e.chunk.js.map",
+    "index.html": "/peopleten/index.html",
+    "precache-manifest.e10c071a5d918d370e2633c10d0b47af.js": "/peopleten/precache-manifest.e10c071a5d918d370e2633c10d0b47af.js",
+    "service-worker.js": "/peopleten/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/peopleten/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/peopleten/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8c3fae2e.chunk.js.LICENSE.txt": "/peopleten/static/js/2.8c3fae2e.chunk.js.LICENSE.txt",
+    "static/media/T1.jpg": "/peopleten/static/media/T1.c2eee7e2.jpg",
+    "static/media/T3.jpg": "/peopleten/static/media/T3.88056c83.jpg",
+    "static/media/T4.jpg": "/peopleten/static/media/T4.19308b1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4671299e.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.8c3fae2e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d7916f1b.chunk.js"
+  ]
+}
